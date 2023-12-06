@@ -1,6 +1,6 @@
 // Leonardo Serrano Arias C17484
 // Vincer Solis Hernandez B87702
-// David 
+// David Rodriguez Gutierrez B59281
 
 /*
 Funcionamiento del programa:
