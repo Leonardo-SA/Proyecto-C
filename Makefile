@@ -4,7 +4,7 @@ p2: proyecto2.c
 p3: proyecto3.c
   gcc proyecto3.c -o exe
 
-run: p3
+run:
   ./exe
 
 clean:
